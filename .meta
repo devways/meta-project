@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "meta-project-a": "git@github.com:devways/meta-project-a.git",
+    "meta-project-b": "git@github.com:devways/meta-project-b.git"
+  }
+}
